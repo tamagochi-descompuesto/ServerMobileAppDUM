@@ -1,0 +1,28 @@
+{
+  "name": "servidor-web-dibujando-un-ma-ana",
+  "version": "1.0.0",
+  "description": "Servidor web para la aplicacion movil de DUM",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "sequelize": "^6.6.5",
+    "tedious": "^13.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A01750170/Servidor-Web-Dibujando-un-Ma-ana.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A01750170/Servidor-Web-Dibujando-un-Ma-ana/issues"
+  },
+  "homepage": "https://github.com/A01750170/Servidor-Web-Dibujando-un-Ma-ana#readme"
+}
